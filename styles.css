@@ -43,7 +43,7 @@ nav ul li a {
 }
 
 .case .highlight {
-    margin-bottom: 10px; /* ハイライト段落の下に特別な間隔を設定 */
+    margin-bottom: 0px; /* ハイライト段落の下に特別な間隔を設定 */
 }
 /* ヒーローセクションのスタイル */
 .hero {
