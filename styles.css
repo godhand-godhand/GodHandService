@@ -38,14 +38,12 @@ nav ul li a {
     border-radius: 8px; /* 角を丸く */
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* シャドウ効果 */
 }
-.case {
-    margin-bottom: 20px; /* 各事例の間隔 */
+.case p {
+    margin-bottom: 15px; /* 段落間の間隔を統一 */
 }
 
-.highlight {
-    font-size: 24px; /* ハイライトされたテキストのサイズ */
-    font-weight: bold; /* 文字を太く */
-    color: #333; /* 文字の色 */
+.case .highlight {
+    margin-bottom: 10px; /* ハイライト段落の下に特別な間隔を設定 */
 }
 /* ヒーローセクションのスタイル */
 .hero {
